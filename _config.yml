@@ -8,6 +8,8 @@ name: Sandra M. Emry
 # Short bio or description (displayed in the header)
 description: Data Scientist + Marine Ecologist
 
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://github.com/sandraemry.png
 #
