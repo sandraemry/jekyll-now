@@ -1,16 +1,16 @@
 #
 # This file contains configuration flags to customize your site
 #
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
 
 # Name of your site (displayed in the header)
 name: Sandra M. Emry
 
 # Short bio or description (displayed in the header)
-description: Data Scientoist + Marine Ecologist
+description: Data Scientist + Marine Ecologist
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://twitter.com/sandraemry/photo
+avatar: https://github.com/sandraemry.png
 #
 # Flags below are optional
 #
@@ -19,8 +19,7 @@ avatar: https://twitter.com/sandraemry/photo
 footer-links:
   email: emry@zoology.ubc.ca
   github: sandraemry
-  linkedin: https://www.linkedin.com/in/sandra-emry-910b3b248/
-  rss: # just type anything here for a working RSS icon
+  linkedin: sandra-emry-910b3b248
   twitter: sandraemry
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
