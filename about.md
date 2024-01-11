@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-Some information about you!
+I am currently a data science and teaching postdoctoral fellow with The Living Data Project based at the University of British Columbia. I'm also a marine ecologist broadly interested in the effects of environmental stressors on marine communities supported by foundation species (e.g. barnacles, mussels, algae). I am also passionate about teaching proper data management and reproducible workflows to undergraduates, so they don't make the same mistakes that I did when starting out in research. Outside of teaching and research, you can find me chasing around my two rugrats, Jasper and James. 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[emry@zoology.ubc.ca](mailto:emry@zoology.ubc.ca)
